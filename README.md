@@ -8,7 +8,7 @@ To conduct initial and exploratory analysis for Instacart Grocery, a US-based on
 Original data is available [here](https://drive.google.com/drive/folders/1ZVX6VJqx41Pe5GaZIuePFXKgIM7EHEWB?usp=share_link).
 
 # Tools
-The project used excel and python. The following libraries were usd in python: 
+The project used excel and python. The following libraries were used in python: 
 * Pandas 
 * Numpy 
 * Seaborn
